@@ -17,6 +17,7 @@ Het atelier, 1963. Vlnr, Henricus Rol, Inge Zekveld en Mieke Polderman.
 
 verhalen
 kunstenaars/index
+themas/index
 over
 ```
 
