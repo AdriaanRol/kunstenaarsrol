@@ -1,0 +1,14 @@
+
+.doit.db
+*.py[cod]
+cache/
+output/
+public/
+*__pycache__/
+*.DS_Store
+*.sublime-workspace
+kunstenaarsrol/_website/
+kunstenaarsrol/_build/
+kunstenaarsrol/.doctrees/
+
+

@@ -1,0 +1,8 @@
+sphinx
+ablog
+pydata_sphinx_theme
+sphinx_design
+sphinx_copybutton
+myst-parser
+sphinxcontrib-youtube
+sphinxcontrib-bibtex
