@@ -29,12 +29,12 @@ templates_path = ["_templates"]
 exclude_patterns = ["_build", "Thumbs.db", ".DS_Store"]
 
 language = "nl"
-
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
 html_theme = "pydata_sphinx_theme"
 html_static_path = ["_static"]
+html_show_sourcelink = False
 
 
 # -- Font-Awesome Options -----------------------------------------------------
@@ -118,3 +118,5 @@ post_auto_excerpt = 1
 
 # Make sure the target is unique
 autosectionlabel_prefix_document = True
+
+html_show_sourcelink = False
