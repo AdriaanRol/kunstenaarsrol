@@ -10,6 +10,11 @@ project = "Kunstenaars Rol"
 copyright = "2023, Stichting Kunstenaars Rol"
 author = "Stichting Kunstenaars Rol"
 
+
+html_baseurl = "https://kunstenaarsrol.com/"
+html_title = "Kunstenaars Rol"
+timezone = "Europe/Amsterdam"
+
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
@@ -50,19 +55,26 @@ def setup(app):
     app.add_css_file("custom.css")
 
 
-# html_sidebars = {
-# "index": ["search-field.html", "aboutme.html"],
-# "about": ["search-field.html", "aboutme.html"],
-# "posts": ["search-field.html", "tagcloud.html", "archives.html"],
-# "posts/tag": ["search-field.html", "tagcloud.html", "archives.html"],
-# "posts/tag/**": ["search-field.html", "tagcloud.html", "archives.html"],
-# "posts/[!tag]**": [
-#     "search-field.html",
-#     "postcard.html",
-#     "recentposts.html",
-#     "archives.html",
-# ],
-# }
+html_sidebars = {
+    # "index": ["search-field.html", "aboutme.html"],
+    # "about": ["search-field.html", "aboutme.html"],
+    "posts": ["search-field.html", "tagcloud.html", "archives.html"],
+    "verhalen": ["search-field.html", "tagcloud.html", "archives.html"],
+    "verhalen/[!tag]**": [
+        "search-field.html",
+        "postcard.html",
+        "recentposts.html",
+        "archives.html",
+    ],
+    # "posts/tag": ["search-field.html", "tagcloud.html", "archives.html"],
+    # "posts/tag/**": ["search-field.html", "tagcloud.html", "archives.html"],
+    # "posts/[!tag]**": [
+    #     "search-field.html",
+    #     "postcard.html",
+    #     "recentposts.html",
+    #     "archives.html",
+    # ],
+}
 
 
 html_theme_options = {
@@ -90,10 +102,16 @@ ablog_builder = "dirhtml"
 blog_baseurl = "https://kunstenaarsrol.com/"
 
 # A path relative to the configuration directory for posts archive pages.
-blog_path = "posts"
+blog_path = "verhalen"
 
 # The "title" for the posts, used in active pages.  Default is ``'Blog'``.
-blog_title = "Kunstenaars Rol"
+BLOG_TITLE = {"en": "Artists Rol", "nl": "Kunstenaars Rol"}
+
+blog_default_language = "nl"
+
+blog_languages = {
+    "nl": ("Nederlands", None),
+}
 
 # The path that you store your content in, this will be used for the browsing path
 # on your published website
