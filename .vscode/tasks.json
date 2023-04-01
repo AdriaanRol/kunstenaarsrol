@@ -1,0 +1,17 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "ABlog Build",
+            "type": "shell",
+            "command": "ablog clean && ablog build && ablog serve",
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "options": {
+                "cwd": "${workspaceFolder}/kunstenaarsrol"
+            }
+        }
+    ]
+}

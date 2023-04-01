@@ -24,7 +24,7 @@ extensions = [
     "sphinx_design",
     "sphinx_copybutton",
     "myst_parser",
-    "sphinxcontrib.youtube",
+    # "sphinxcontrib.youtube",
     # "sphinxcontrib.bibtex",
     "sphinx.ext.autosectionlabel",
 ]
@@ -109,9 +109,7 @@ BLOG_TITLE = {"en": "Artists Rol", "nl": "Kunstenaars Rol"}
 
 blog_default_language = "nl"
 
-blog_languages = {
-    "nl": ("Nederlands", None),
-}
+blog_languages = {"nl": ("Nederlands", None)}
 
 # The path that you store your content in, this will be used for the browsing path
 # on your published website
