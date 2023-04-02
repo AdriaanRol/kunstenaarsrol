@@ -1,5 +1,16 @@
 # Henricus Rol
 
+*"Hij leefde om te schilderen, en schilderde om te leven."*
+
+```{figure}  /images/Henricus_zelfportret_1977.jpg
+:alt: Zelfportret van Henricus Rol (1977).
+:align: right
+:width: 300
+
+
+Zelfportret - Henricus Rol (1977).
+```
+
 ## Biografie
 
 - 1906: Henricus (Riek) Rol geboren top 23 juni te Amsterdam, zoon van Cornelis Rol en Trijntje Moojen-de Gooyer.

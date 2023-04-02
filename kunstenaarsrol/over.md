@@ -16,6 +16,11 @@ Om dit doel te realiseren houdt De Stichting zich bezig met het volgende:
 7. Het beschikbaar maken van memorabilia zoals kaarten, boeken, prints etc.
 8. Fondsenwerving om duurdere activiteiten te bekostigen.
 
+```{figure} images/palet.bmp
+:alt: Een palet voor het mengen van verf.
+:width: 500
+```
+
 <!-- ## Contact -->
 
 <!-- ## ANBI status -->
