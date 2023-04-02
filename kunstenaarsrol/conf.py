@@ -87,6 +87,7 @@ html_theme_options = {
     # You can also change the text that is in the search bar before people click on it by setting the
     # "search_bar_text"
     "search_bar_text": "Zoeken",
+    "footer_items": ["copyright"],
     # # By default your site will have a search bar in the nav bar, but when we include the about.html,
     # # this gets removed to so you can add one to the top "navbar" instead
     # "search_bar_position": "navbar",
