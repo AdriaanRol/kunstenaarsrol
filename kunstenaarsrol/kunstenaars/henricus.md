@@ -21,7 +21,7 @@
 - 1946 - 1976: Maakt kopieën, verricht veel restauratiewerkzaamheden voor musea en particulieren en schildert veel portretten, werkt voor bloembollenbedrijf Stassen te Hillegom (tot 1973). Leidt leerlingen op in het restauratie-vak.
 - 1947: Geboorte dochter Celine.
 - 1950:  en verder Reist in zijn vakantie met zijn gezin naar Frankrijk, Zwitserland en Italië, maakt daar landschappen.
-- 1960 - 1970: Reist als illustrator voor de catalogi van de firma Stassen regelmatig naar het buitenland (Zwitserland, Oostenrijk, Engeland en Duitsland) om drukproeven te corrigeren. Zijn zoon Hanno volgt in de voetsporen van zijn vader, echter ontwikkelt zijn eigen stijl. Zijn vader wordt in later jaren beinvloedt door zijn zoon, die een bijzonder talent heeft het aquarelleren.
+- 1960 - 1970: Reist als illustrator voor de catalogi van de firma Stassen regelmatig naar het buitenland (Zwitserland, Oostenrijk, Engeland en Duitsland) om drukproeven te corrigeren. Zijn zoon Hanno volgt in de voetsporen van zijn vader, echter ontwikkelt zijn eigen stijl. Zijn vader wordt in later jaren beïnvloed door zijn zoon, die een bijzonder talent heeft het aquarelleren.
 - 1971: Bereikt de pensioengerechtigde leeftijd. Werkt minder onder druk, maar neemt nog wel opdrachten aan (met name portretten).
 - 1973: Beëindigt zijn werk voor de catalogi voor bloembollenbedrijf Stassen.
 - 1975 - 1991: Bezoekt een aantal keren zijn zoon Hanno in Nieuw-Zeeland.
