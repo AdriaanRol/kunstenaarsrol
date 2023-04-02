@@ -14,7 +14,7 @@ over
 
 # De Kunstenaars Rol
 
-::::{grid} 3
+::::{grid} 1 3 3 3
 :::{grid-item-card}  Cornelis
 
 1877 - 1963
