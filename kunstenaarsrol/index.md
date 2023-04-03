@@ -15,7 +15,7 @@ over
 # De Kunstenaars Rol
 
 ::::{grid} 1 3 3 3
-:::{grid-item-card}  Cornelis
+:::{grid-item-card}  Cornelis Rol
 
 1877 - 1963
 
@@ -23,11 +23,12 @@ over
 :alt: Zelfportret van Cornelis Rol (ca. 1897).
 :target: /kunstenaars/Cornelis
 
-Zelfportret - Cornelis Rol (ca. 1897).
+Zelfportret  
+(ca. 1897).
 ```
 
 :::
-:::{grid-item-card}  Henricus
+:::{grid-item-card}  Henricus Rol
 
 1906 - 1992
 
@@ -35,11 +36,11 @@ Zelfportret - Cornelis Rol (ca. 1897).
 :alt: Zelfportret van Henricus Rol (1977).
 :target: /kunstenaars/Henricus
 
-Zelfportret - Henricus Rol (1977).
+Zelfportret  (1977).
 ```
 
 :::
-:::{grid-item-card}  Hanno
+:::{grid-item-card}  Hanno Rol
 
 1944 - 2015
 
@@ -47,7 +48,7 @@ Zelfportret - Henricus Rol (1977).
 :alt: Zelfportret van Hanno Rol (1965).
 :target: /kunstenaars/Hanno
 
-Zelfportret - Hanno Rol (1965).
+Zelfportret  (1965).
 
 :::
 ::::
