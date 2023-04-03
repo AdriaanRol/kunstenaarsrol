@@ -48,6 +48,9 @@ html_show_sourcelink = False
 
 # # Sphinx_ theme already links to `Font Awesome`_.  Default: ``False``
 fontawesome_included = True
+fontawesome_link_cdn = (
+    "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css"
+)
 
 templates_path = ["_templates"]
 exclude_patterns = ["_build", "Thumbs.db", ".DS_Store"]
@@ -60,13 +63,13 @@ def setup(app):
 html_sidebars = {
     # "index": ["search-field.html", "aboutme.html"],
     # "about": ["search-field.html", "aboutme.html"],
-    "posts": ["search-field.html", "tagcloud.html", "archives.html"],
-    "verhalen": ["search-field.html", "tagcloud.html", "archives.html"],
+    "posts": ["search-field.html", "ablog/tagcloud.html", "ablog/archives.html"],
+    "verhalen": ["search-field.html", "ablog/tagcloud.html", "ablog/archives.html"],
     "verhalen/[!tag]**": [
         "search-field.html",
-        "postcard.html",
-        "recentposts.html",
-        "archives.html",
+        "ablog/postcard.html",
+        "ablog/recentposts.html",
+        "ablog/archives.html",
     ],
     # "posts/tag": ["search-field.html", "tagcloud.html", "archives.html"],
     # "posts/tag/**": ["search-field.html", "tagcloud.html", "archives.html"],
