@@ -19,11 +19,11 @@ over
 
 1877 - 1963
 
-```{figure}  /images/Cornelis_Rol_1942_olieverf.bmp
-:alt: Cornelis Rol door Henricus Rol (1942).
+```{figure}  /images/Cornelis_zelfportret.png
+:alt: Zelfportret van Cornelis Rol (ca. 1897).
 :target: /kunstenaars/Cornelis
 
-Cornelis Rol door Henricus Rol (1942).
+Zelfportret - Cornelis Rol (ca. 1897).
 ```
 
 :::
