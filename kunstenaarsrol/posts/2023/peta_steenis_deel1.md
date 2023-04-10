@@ -21,7 +21,7 @@ Voor de illustraties zijn in de loop der tijd verschillende kunstenaars aangetro
 Henricus Rol heeft tussen 1925 en 1940 samen met zijn vader Cornelis Rol en Jan Voerman jr. illustraties geschilderd voor een groot aantal plaatjesalbums.
 In eerste instantie was Cornelis door Jac Koeman – een neef van vader Rol – gevraagd voor de illustraties van het album ‘De bloemen in onzen tuin’.
 Henricus was toen nog bezig met zijn opleiding aan de Academie voor Beeldende Kunsten in Den Haag.
-Zonder dat Verkade het wist schilderde hij onder de naam van zijn vader toen al diverse illustraties en werkte hij vanaf 1927/1928 mee aan het album ‘Paddenstoelen’.
+Zonder dat Verkade het wist schilderde hij onder de naam van zijn vader toen al diverse illustraties en werkte hij vanaf 1927/1928 mee aan het album ‘Paddestoelen’.
 Pas later kreeg Verkade dit te horen.
 Vanwege de goede kwaliteit werd Henricus als vaste illustrator aangenomen.
 
@@ -66,5 +66,5 @@ De fotografie was toen nog niet ver genoeg voor reproducties.
 Met de schilderkunst was eigenlijk alles al uitgevonden, zoals pigmenten, technieken en perspectief en daardoor veel beter geschikt voor het drukken van de plaatjes.
 
 ```{note}
-Dit artikel is oorspronkelijk verschenen op de website van het [Zaans Museum](https://zaansmuseum.nl/verhaal/deel-1-henricus-rol-illustrator-voor-de-verkadealbums-en-alleskunner/) en wordt hier met toestemming gereproduceerd.
+Dit artikel is oorspronkelijk verschenen op de website van het [Zaans Museum](https://zaansmuseum.nl/verhaal/deel-1-henricus-rol-illustrator-voor-de-verkadealbums-en-alleskunner/) en wordt is met toestemming gereproduceerd.
 ```
