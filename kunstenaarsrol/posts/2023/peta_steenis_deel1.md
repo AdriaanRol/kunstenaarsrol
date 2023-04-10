@@ -8,6 +8,14 @@ language: nl
 ---
 ```
 
+```{figure} /images/Henricus_Rol_voorstudies.jpg
+:alt: Henricus Rol met voorstudies.
+:align: right
+:width: 350
+
+Henricus Rol met voorstudies.
+```
+
 Vanaf 1903 gaf de firma Verkade albums uit waarvoor plaatjes konden worden verzameld.
 Voor de illustraties zijn in de loop der tijd verschillende kunstenaars aangetrokken.
 Henricus Rol heeft tussen 1925 en 1940 samen met zijn vader Cornelis Rol en Jan Voerman jr. illustraties geschilderd voor een groot aantal plaatjesalbums.
@@ -19,6 +27,8 @@ Vanwege de goede kwaliteit werd Henricus als vaste illustrator aangenomen.
 
 ```{figure}  /images/Cornelis-en-Henricus-Rol.jpg
 :alt: Cornelis en Henricus Rol.
+:align: left
+:width: 300
 
 Cornelis en Henricus Rol.
 <!-- (ca.???). -->
@@ -35,6 +45,8 @@ Vanwege het gebrek aan brandstof werden ze gesleept door een boot van de vuilnis
 
 ```{figure}  /images/Tricomari-met-Cornelis-Rol-op-het-dak-scaled.jpg
 :alt: Tricomari met Cornelis Rol op het dak (1942).
+:align: right
+:width: 400
 
 Tricomari met Cornelis Rol op het dak (1942).
 ```
