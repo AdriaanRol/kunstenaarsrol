@@ -63,3 +63,7 @@ Het resultaat was zo goed, dat een hoge officier die op bezoek kwam in een gecam
 Tijdens zijn diensttijd kreeg Henricus van zijn kapitein verlof om de illustraties voor de “Vogels in Artis” af te maken.
 Diezelfde kapitein zei: “Als je zo goed plaatjes van apen kunt schilderen, dan kun je vast ook miniaturen schilderen.
 Kun je mij ook schilderen?” Dat is goed gelukt en het werd het begin van een hele reeks miniaturen, waaronder één van prinses Beatrix.
+
+```{note}
+Dit artikel is oorspronkelijk verschenen op de website van het [Zaans Museum](https://zaansmuseum.nl/verhaal/deel-3-henricus-rol-illustrator-voor-de-verkadealbums-en-alleskunner/) en is hier met toestemming gereproduceerd.
+```
