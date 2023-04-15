@@ -13,7 +13,7 @@ Zelfportret - Henricus Rol (1977).
 
 ## Biografie
 
-- 1906: Henricus (Riek) Rol geboren top 23 juni te Amsterdam, zoon van Cornelis Rol en Trijntje Moojen-de Gooyer.
+- 1906: Henricus (Riek) Rol geboren top 23 juni te Amsterdam, zoon van [Cornelis Rol](/kunstenaars/cornelis) en Trijntje Moojen-de Gooyer.
 - 1918: Verhuist naar Den Haag/Voorburg.
 - 1918 - 1923:  Volgt de opleiding aan de ambachtsschool schildert aldaar imitatie marmer, noten-, mahonie en eikenhout en tekent minutieus planten en insecten.
 - 1923 - 1928: Volgt de opleiding aan de Academie voor Beeldende Kunsten te Den Haag.
@@ -26,7 +26,7 @@ Zelfportret - Henricus Rol (1977).
 - 1939: Neemt foto-opdrachten aan. In de mobilisatie ontwikkelt hij nieuwe camouflagetechnieken. Begint met het schilderen van miniaturen.
 - 1940: Maakt illustraties voor het laatste in de oorlog uitgebrachte Verkade-album. *Apen en hoefdieren in Artis*, alsook voor *Vogels in Artis*. Verlaat de militaire dienst.
 - 1942:  Trouwt met Riet van Mourik Broekman op 8 september. Verhuist naar Nieuwkoop/Noorden.
-- 1944: Geboorte zoon Johannes (Hanno).
+- 1944: Geboorte zoon Johannes ([Hanno](/kunstenaars/hanno)).
 - 1946: Geboorte zoon Maarten.
 - 1946 - 1983: Schildert na de oorlog o.a. statieportretten.
 - 1946 - 1976: Maakt kopieën, verricht veel restauratiewerkzaamheden voor musea en particulieren en schildert veel portretten, werkt voor bloembollenbedrijf Stassen te Hillegom (tot 1973). Leidt leerlingen op in het restauratie-vak.
@@ -40,3 +40,9 @@ Zelfportret - Henricus Rol (1977).
 - 1976 - 1992: Schildert werken waar hij zin in heeft, neemt nog maar weinig opdrachten aan.
 - 1985: Heeft een ernstige longontsteking. Zijn vrouw Riet krijgt een hartinfarct. Samen zijn ze opgenomen in het ziekenhuis in Leiderdorp. Houden na herstel  vakantie op Kreta.
 - 1992: Overlijdt in de nacht van 29 augustus 1992 in zijn woonplaats te Noorden.
+
+## Verhalen
+
+```{postlist}
+:tags: Henricus Rol
+```
