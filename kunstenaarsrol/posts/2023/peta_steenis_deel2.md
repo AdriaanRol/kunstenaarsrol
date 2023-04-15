@@ -62,7 +62,7 @@ Chimpansee 1940.
 :::{card}
 :width: 25%
 
-```{figure} /images/koningstijger.jpg
+```{figure} /images/Koningstijger.jpg
 :alt: Koningstijger 1939.
 
 Koningstijger 1939.
