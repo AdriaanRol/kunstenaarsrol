@@ -44,11 +44,11 @@ Zelfportret  (1977).
 
 1944 - 2015
 
-```{figure}  /images/Hanno_zelfportret.png
-:alt: Zelfportret van Hanno Rol (1965).
+```{figure}  /images/KRJ504_Hanno_zelfportret_pastel.jpg
+:alt: Zelfportret van Hanno Rol.
 :target: /kunstenaars/hanno
 
-Zelfportret  (1965).
+Zelfportret.
 
 :::
 ::::
