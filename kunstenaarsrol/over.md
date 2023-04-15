@@ -3,7 +3,7 @@
 Hoewel er veel werk is verkocht tijdens het leven van De Kunstenaars Rol, blijft er een immense nalatenschap aan schilderijen en tekeningen achter.
 De zorg is wat doen we er mee? Hoe zorgen we dat de belangstelling voor het werk weer wordt opgewekt, blijft en het werk in goede staat blijft?
 
-De Stichting Kunstenaars Rol heeft als doel het bevorderen van de bekendheid en waardering van het werk van de kunstenaars Cornelis, Henricus, en Hanno Rol.
+De Stichting Kunstenaars Rol is opgericht op 25 mei 2001 en heeft haar zetel in de gemeente Nieuwkoop. De Stichting Kunstenaars Rol heeft als doel het bevorderen van de bekendheid en waardering van het werk van beeldende kunstenaars uit de familie Rol.
 
 Om dit doel te realiseren houdt De Stichting zich bezig met het volgende:
 
