@@ -8,7 +8,6 @@ Deze website is in aanbouw.
 
 verhalen
 kunstenaars/index
-themas/index
 over
 ```
 

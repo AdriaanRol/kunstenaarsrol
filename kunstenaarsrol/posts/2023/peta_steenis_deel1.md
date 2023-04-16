@@ -2,7 +2,7 @@
 
 ```{post} 2023-04-03
 ---
-tags: Henricus Rol, Verkade albums, Zaans Museum
+tags: Henricus Rol, Cornelis Rol, Verkade albums, Zaans Museum
 author: Peta Steenis
 language: nl
 ---

@@ -21,3 +21,9 @@ In 1972 trouwde hij met een leerlinge uit het atelier van zijn vader. Getrokken 
 In 1982 werd een van zijn landschappen in olieverf geselecteerd voor een Commonwealth tentoonstelling in Londen. Sindsdien bestaat er een toenemende belangstelling voor het werk van Hanno Rol. De aquarellencollectie uit deze tijd munt uit door een kleurenintensiteit en harmonie waarbij het figuratieve van ondergeschikt belang is geworden. Bij Het voortdurend zoeken naar een kleurenevenwicht is de helderheid in hei werk behouden gebleven.
 
 In 1985 vertoonde "Galerie DM" reeds werk van Hanno Rol. Er was veel belangstelling. In Auckland, Nieuw-Zeeland bestaan steeds meer belangstelling voor zijn werk, wat tot uiting kwam in een expositie in de galerie "Charlotte H." in 1988. In februari 1992 word een selectie van aquarellen en krijttekeningen getoond in "Galerie DM".
+
+## Verhalen
+
+```{postlist}
+:tags: Hanno Rol
+```
