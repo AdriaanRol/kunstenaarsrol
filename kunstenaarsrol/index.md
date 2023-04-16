@@ -1,7 +1,3 @@
-```{warning}
-Deze website is in aanbouw.
-```
-
 ```{toctree}
 :maxdepth: 2
 :hidden:
