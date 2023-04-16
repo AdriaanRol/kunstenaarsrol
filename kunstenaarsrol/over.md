@@ -5,7 +5,7 @@ De zorg is wat doen we er mee? Hoe zorgen we dat de belangstelling voor het werk
 
 De Stichting Kunstenaars Rol is opgericht op 25 mei 2001 en heeft haar zetel in de gemeente Nieuwkoop. De Stichting Kunstenaars Rol heeft als doel het bevorderen van de bekendheid en waardering van het werk van beeldende kunstenaars uit de familie Rol.
 
-Om dit doel te realiseren houdt De Stichting zich bezig met het volgende:
+Om dit doel te realiseren houdt de stichting zich bezig met het volgende:
 
 1. het opsporen en catalogiseren van de werken.
 2. Het adequaat conserveren, en waar nodig het restaureren van de werken.

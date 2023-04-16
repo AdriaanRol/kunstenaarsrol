@@ -1,11 +1,11 @@
 # Hanno Rol
 
 ```{figure}  /images/KRJ504_Hanno_zelfportret_pastel.jpg
-:alt: Zelfportret van Hanno Rol.
+:alt: Zelfportret van Hanno Rol (2005).
 :align: right
 :width: 300
 
-Zelfportret Hanno Rol.
+Zelfportret Hanno Rol (2005).
 ```
 
 ## Biografie
