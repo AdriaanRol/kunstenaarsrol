@@ -106,6 +106,19 @@ html_theme_options = {
     # "navbar_center": [],
 }
 
+# html_theme_options["analytics"] = {
+#     "google_analytics_id": "G-J6GBVEHM1P",
+# }
+
+# <script defer data-domain="kunstenaarsrol.nl" src="https://plausible.io/js/script.js"></script>
+
+
+html_theme_options["analytics"] = {
+    # The domain you'd like to use for this analytics instance
+    "plausible_analytics_domain": "kunstenaarsrol.nl",
+    # The analytics script that is served by Plausible
+    "plausible_analytics_url": "https://plausible.io/js/script.js",
+}
 
 # -- Ablog configuration ---------------------------------------------------
 ablog_builder = "dirhtml"
