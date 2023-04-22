@@ -60,3 +60,7 @@ Bij een slecht voorjaar ging alles vanwege de kou tegelijkertijd bloeien.
 Dan werden er wel drie keer per dag bloemen gebracht om te schilderen.
 Hij legde snel de vorm vast voordat de bloemen de koelkast in gingen om hun kleur te behouden.
 Henricus had er gevoel en oog voor, hij kon 100 meter door een heel tulpenveld lopen voor de goeie tulp was gevonden.
+
+```{note}
+Dit artikel is oorspronkelijk verschenen op de website van het [Zaans Museum](https://zaansmuseum.nl/verhaal/deel-4-henricus-rol-illustrator-voor-de-verkadealbums-en-alleskunner/) en is hier met toestemming gereproduceerd.
+```
