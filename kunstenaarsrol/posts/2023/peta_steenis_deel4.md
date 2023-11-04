@@ -2,7 +2,7 @@
 
 ```{post} 2023-04-18
 ---
-tags: Henricus Rol, , Vermeer, Kopieen, Portretten, Staatsieportretten, Bloemenbollenbedrijf Stassen
+tags: Henricus Rol, , Vermeer, Kopieen, Portretten, Staatsieportretten, Bloemenbollenbedrijf Stassen, Verkade albums
 author: Peta Steenis
 language: nl
 ---
