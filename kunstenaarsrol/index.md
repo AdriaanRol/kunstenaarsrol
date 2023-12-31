@@ -16,7 +16,7 @@ over
 
 ```{figure}  /images/Cornelis_zelfportret.png
 :alt: Zelfportret van Cornelis Rol (ca. 1897).
-:target: ./kunstenaars/cornelis.md
+:target: ./kunstenaars/cornelis.html
 
 Zelfportret  
 (ca. 1897).
@@ -29,7 +29,7 @@ Zelfportret
 
 ```{figure}  /images/Henricus_zelfportret_1977.jpg
 :alt: Zelfportret van Henricus Rol (1977).
-:target: ./kunstenaars/henricus.md
+:target: ./kunstenaars/henricus.html
 
 Zelfportret  (1977).
 ```
@@ -41,7 +41,7 @@ Zelfportret  (1977).
 
 ```{figure}  /images/KRJ504_Hanno_zelfportret_pastel.jpg
 :alt: Zelfportret van Hanno Rol (2005).
-:target: ./kunstenaars/hanno.md
+:target: ./kunstenaars/hanno.html
 
 Zelfportret (2005).
 
