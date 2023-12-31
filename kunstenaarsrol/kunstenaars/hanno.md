@@ -10,6 +10,14 @@ Zelfportret Hanno Rol (2005).
 
 ## Biografie
 
+```{admonition} Johannes (Hanno) Rol
+:class: sidebar note
+
+$^*$ 1944 - Noorden, Zuid-Holland <br>
+† 2015 - Waiuku, Nieuw Zeeland <br>
+[RKD - Nederlands Instituut voor Kunstgeschiedenis](https://rkd.nl/nl/explore/artists/108591)
+```
+
 Hanno werd geboren in 1944, zoon van de kunstschilder [Henricus Rol](/kunstenaars/henricus) en de sopraan en pianiste Riet van Mourik Broekman. Op jonge leeftijd schilderde hij samen met zijn vader en grootvader ([C. Rol](/kunstenaars/cornelis)) de omgeving van zijn geboorteplaats Noorden.
 
 Op zestienjarige leeftijd volgde hij op de Normaalschool in Amsterdam een speciale opleiding voor de Kunstacademie ( o.a. bij van Tongeren en van der Spoel l. Van 1962-1968 was hij leerling op de Rijksacademie voor Beeldende Kunsten te Amsterdam. Onder Leiding van Röling, Vaarzon Morel en den Ouden legde hij hier de basis voor zijn verdere ontwikkeling. Later was hij leerling van Sierk Schröder Otto B. de Kat en Lutge. In deze jaren werd de Urioth Prijs (een academieprijs) hem drie maal toegekend, naaraanleiding van zijn fraaie buitenstudies. Met deze stimulans ging hij in 1968 drie maanden schilderen in Zuid-Frankrijk.

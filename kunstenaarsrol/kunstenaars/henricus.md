@@ -13,6 +13,14 @@ Zelfportret - Henricus Rol (1977).
 
 ## Biografie
 
+```{admonition} Henricus Rol
+:class: sidebar note
+
+$^*$ 1906 - Amsterdam, Noord-Holland <br>
+† 1992 - Noorden, Zuid-Holland <br>
+[RKD - Nederlands Instituut voor Kunstgeschiedenis](https://rkd.nl/nl/explore/artists/67773), [Wikipedia](https://nl.wikipedia.org/wiki/Henricus_Rol)
+```
+
 - 1906: Henricus (Riek) Rol geboren top 23 juni te Amsterdam, zoon van [Cornelis Rol](/kunstenaars/cornelis) en Trijntje Moojen-de Gooyer.
 - 1918: Verhuist naar Den Haag/Voorburg.
 - 1918 - 1923:  Volgt de opleiding aan de ambachtsschool schildert aldaar imitatie marmer, noten-, mahonie en eikenhout en tekent minutieus planten en insecten.

@@ -31,7 +31,7 @@ extensions = [
     "sphinxext.opengraph",
 ]
 
-myst_enable_extensions = ["colon_fence"]
+myst_enable_extensions = ["dollarmath", "amsmath", "colon_fence", "substitution"]
 
 ogp_site_url = html_baseurl
 
