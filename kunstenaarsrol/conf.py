@@ -33,6 +33,7 @@ extensions = [
 
 myst_enable_extensions = ["colon_fence"]
 
+ogp_site_url = html_baseurl
 
 templates_path = ["_templates"]
 exclude_patterns = ["_build", "Thumbs.db", ".DS_Store"]
