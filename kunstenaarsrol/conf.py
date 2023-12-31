@@ -24,9 +24,11 @@ extensions = [
     "sphinx_design",
     "sphinx_copybutton",
     "myst_parser",
+    "sphinx_favicon",
     # "sphinxcontrib.youtube",
     # "sphinxcontrib.bibtex",
     "sphinx.ext.autosectionlabel",
+    "sphinxext.opengraph",
 ]
 
 myst_enable_extensions = ["colon_fence"]

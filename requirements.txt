@@ -6,3 +6,5 @@ sphinx_copybutton
 myst-parser
 sphinxcontrib-youtube
 sphinxcontrib-bibtex
+sphinx-favicon
+sphinxext-opengraph
