@@ -14,7 +14,6 @@ author = "Stichting Kunstenaars Rol"
 html_baseurl = "https://kunstenaarsrol.com/"
 html_title = "Kunstenaars Rol"
 timezone = "Europe/Amsterdam"
-# html_logo = "_static/images/palet-cropped.png"
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
@@ -47,7 +46,7 @@ html_theme = "pydata_sphinx_theme"
 html_static_path = ["_static"]
 html_show_sourcelink = False
 
-favicons = ["images/palet-cropped.png"]
+favicons = ["images/palet-cropped_small.png"]
 # -- Font-Awesome Options -----------------------------------------------------
 
 # # Sphinx_ theme already links to `Font Awesome`_.  Default: ``False``

@@ -62,8 +62,3 @@ Zelfportret (2005).
 :expand: Verder lezen ...
 ```
 
-```{figure} images/00036.bmp
-:alt: Restauratie in het atelier van Henricus Rol.
-
-Het atelier, 1963. Vlnr, Henricus Rol, Inge Zekveld en Mieke Polderman.
-```

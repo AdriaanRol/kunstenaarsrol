@@ -2,7 +2,7 @@
 
 ```{post} 2023-04-22
 ---
-tags: Henricus Rol, Hanno Rol, Restauratie, Aquarel, Museum Catharijneconvent, Museum Swaensteyn, Verkade albums
+tags: Henricus Rol, Johannes (Hanno) Rol, Restauratie, Aquarel, Museum Catharijneconvent, Museum Swaensteyn, Verkade albums
 author: Peta Steenis
 language: nl
 ---

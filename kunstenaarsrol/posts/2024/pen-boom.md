@@ -2,7 +2,7 @@
 
 ```{post} 2024-01-02
 ---
-tags: Johannes Rol
+tags: Johannes (Hanno) Rol
 author: Maarten Rol
 language: nl
 ---

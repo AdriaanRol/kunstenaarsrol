@@ -33,5 +33,5 @@ In 1985 vertoonde "Galerie DM" reeds werk van Hanno Rol. Er was veel belangstell
 ## Verhalen
 
 ```{postlist}
-:tags: Johannes Rol
+:tags: Johannes (Hanno) Rol
 ```

@@ -16,10 +16,13 @@ Om dit doel te realiseren houdt de stichting zich bezig met het volgende:
 7. Het beschikbaar maken van memorabilia zoals kaarten, boeken, prints etc.
 8. Fondsenwerving om duurdere activiteiten te bekostigen.
 
-```{figure} images/palet.bmp
-:alt: Een palet voor het mengen van verf.
-:width: 500
+
+```{figure} images/00036.bmp
+:alt: Restauratie in het atelier van Henricus Rol.
+
+Het atelier, 1963. Vlnr, Henricus Rol, Inge Zekveld en Mieke Polderman.
 ```
+
 
 <!-- ## Contact -->
 
