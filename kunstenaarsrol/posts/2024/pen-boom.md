@@ -1,6 +1,6 @@
-# Boom Hanno
+# Hanno - kunstenaar op jonge leeftijd
 
-```{post} 2023-12-31
+```{post} 2024-01-02
 ---
 tags: Johannes Rol
 author: Maarten Rol
