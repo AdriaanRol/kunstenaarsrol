@@ -46,7 +46,8 @@ html_theme = "pydata_sphinx_theme"
 html_static_path = ["_static"]
 html_show_sourcelink = False
 
-favicons = ["images/palet-cropped_small.png"]
+favicons = ["images/logo/KR_monogram.svg"]
+
 # -- Font-Awesome Options -----------------------------------------------------
 
 # # Sphinx_ theme already links to `Font Awesome`_.  Default: ``False``
