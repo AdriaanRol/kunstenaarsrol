@@ -46,8 +46,20 @@ html_theme = "pydata_sphinx_theme"
 html_static_path = ["_static"]
 html_show_sourcelink = False
 
-favicons = ["images/logo/KR_monogram.svg", "images/logo/KR_monogram_32.png"]
-
+favicons = [
+    {"rel": "icon", "href": "images/logo/KR_monogram.svg", "type": "image/svg+xml"},
+    {
+        "rel": "shortcut icon",
+        "href": "images/logo/KR_monogram.svg",
+        "type": "image/svg+xml",
+    },
+    {
+        "rel": "icon",
+        "sizes": "32x32",
+        "href": "images/logo/KR_monogram_32.png",
+        "type": "image/png",
+    },
+]
 # -- Font-Awesome Options -----------------------------------------------------
 
 # # Sphinx_ theme already links to `Font Awesome`_.  Default: ``False``
@@ -91,7 +103,7 @@ html_sidebars = {
     # ],
 }
 
- 
+
 html_theme_options = {
     # If you want to configure Twitter or Github social media buttons to show up to the right of your nav bar,
     # you can use the "github_url" and "twitter_url" options:
@@ -108,10 +120,10 @@ html_theme_options = {
     # # this gets removed to so you can add one to the top "navbar" instead
     # "search_bar_position": "navbar",
     # "navbar_center": [],
-   "logo": {
-      "image_light": "_static/images/logo/KR_H-logo_v2.svg",
-      "image_dark": "_static/images/logo/KR_H-logo-wit_v2.svg",
-   }
+    "logo": {
+        "image_light": "_static/images/logo/KR_H-logo_v2.svg",
+        "image_dark": "_static/images/logo/KR_H-logo-wit_v2.svg",
+    },
 }
 
 # html_theme_options["analytics"] = {
