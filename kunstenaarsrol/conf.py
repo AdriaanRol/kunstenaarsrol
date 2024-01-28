@@ -46,7 +46,7 @@ html_theme = "pydata_sphinx_theme"
 html_static_path = ["_static"]
 html_show_sourcelink = False
 
-favicons = ["images/logo/KR_monogram.svg"]
+favicons = ["images/logo/KR_monogram.svg", "images/logo/KR_monogram_32.png"]
 
 # -- Font-Awesome Options -----------------------------------------------------
 
