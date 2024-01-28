@@ -48,6 +48,7 @@ html_show_sourcelink = False
 
 favicons = [
     {"rel": "icon", "href": "images/logo/KR_monogram.svg", "type": "image/svg+xml"},
+    {"rel": "icon", "href": "images/logo/favicon.ico", "sizes": "any"},
     {
         "rel": "shortcut icon",
         "href": "images/logo/KR_monogram.svg",
