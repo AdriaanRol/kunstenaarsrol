@@ -7,7 +7,7 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = "Kunstenaars Rol"
-copyright = "2023-2024, Stichting Kunstenaars Rol"
+copyright = "2023-2026, Stichting Kunstenaars Rol"
 author = "Stichting Kunstenaars Rol"
 
 
@@ -106,11 +106,6 @@ html_sidebars = {
 
 
 html_theme_options = {
-    # If you want to configure Twitter or Github social media buttons to show up to the right of your nav bar,
-    # you can use the "github_url" and "twitter_url" options:
-    # "github_url": "https://github.com/adriaanrol/",
-    # "gitlab_url": "https://gitlab.com/AdriaanRol/",
-    # "twitter_url": "https://www.twitter.com/adriaanrol/",
     "show_prev_next": False,
     # You can also change the text that is in the search bar before people click on it by setting the
     # "search_bar_text"
